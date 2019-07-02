@@ -19,7 +19,7 @@ library(gtable)
 library(grid)
 
 ### Read in Bermuda Data ####
-Data<-read.csv('Data/Bermuda/BermudaRates.csv')
+Data<-read.csv('Data/BermudaRates.csv')
 
 #####
 # replace negative photosythesis values with a 0. A negative value means there is no P anymore
@@ -30,9 +30,9 @@ Data$Rdark_umol.cm2.hr<-abs(Data$Rdark_umol.cm2.hr)
 
 #make it long format with a colum for photosynthesis and resipiration
 Data<-rbind(Data,Data,Data)
-Data$PR<-c(rep('Photosynthesis',63),rep('Respiration',63), rep('Net Photosynthesis',63))
+Data$PR<-c(rep('Photosynthesis',32),rep('Respiration',32), rep('Net Photosynthesis',32))
 Data$PR<-as.factor(Data$PR)
-Data$Rate<-c(Data$Pgross_umol.cm2.hr[1:63], Data$Rdark_umol.cm2.hr[1:63], Data$Pnet_umol.cm2.hr[1:63])
+Data$Rate<-c(Data$Pgross_umol.cm2.hr[1:32], Data$Rdark_umol.cm2.hr[1:32], Data$Pnet_umol.cm2.hr[1:32])
 Data[,c("Pgross_umol.cm2.hr","Rdark_umol.cm2.hr", "Pnet_umol.cm2.hr")]<-list(NULL)
 
 # add a column with log transformed data for the schoolfield equation
@@ -62,7 +62,7 @@ Data<-Data%>%
 
 ############# Read in Panama Data
 
-PData<-read.csv('Data/Panama/PanamaRates.csv')
+PData<-read.csv('Data/PanamaRates.csv')
 PData$Light_Dark<-as.character(PData$Light_Dark)
 PData$Light_Dark[PData$PR=='Net Photosynthesis']<-as.character('Net')
 PData$Light_Dark[is.na(PData$Light_Dark)]<-'Net'
@@ -93,7 +93,7 @@ AllData<- PData %>%
 
 #### paramaterize a model that is nor hierarchical #####
 # JAGS model name for the broad model. All the JAGS code is in this file
-modelBroad = "JAGSnestedLocation.R"
+modelBroad = "Scripts/JAGSnestedLocation.R"
 
 # ##### Photosynthesis model for OF ########## 
 BBData<-AllData
