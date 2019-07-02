@@ -9,6 +9,7 @@ This research was funded in part by the National Science Foundation (grant OCE #
 
 **Data**\
 BermudaRates.csv (calculated photosynthesis and resipration rates for Bermuda)
+PanamaRates.csv (calculated photosynthesis and resipration rates for Bermuda)
 
 **Mapping**\
 Shapefiles for Panama and Bermuda for the map in Figure 2
@@ -26,6 +27,12 @@ WaterChem_TPC_Bermuda_QC.csv (raw pH, salinity, and water volume for each sample
   - **Respirometry**\
 All the raw respirometry files from the PreSens output
 
+- **PI_curve**\
+All the raw respirometry data and metadata for creating the PI curves in Bermuda
+
+  - **TAData**\
+NECData.csv (raw TA data and calculated net calcification rates for the Bermuda corals)
+
 - **Panama**
   - **MetaData**\
 Nubbin_Sample_Info_T0_Panama_QC.csv (Combined sample info for each individual nubbin)\
@@ -34,18 +41,23 @@ SurfaceArea_QC.csv (Coral Surface area data for Panama)\
   - **Respirometry**\
 All the raw respirometry files from the PreSens output
 
-
-  - **TAData**\
-NECData.csv (raw TA data and calculated net calcification rates for the Bermuda corals)
+- **PI_curve**\
+All the raw respirometry data and metadata for creating the PI curves in Panama
 
 **Output**
 - **Bermuda**
   - **Photo_Resp_Output**\
 Files for the raw output of the respirometry rates from the LoLinR package for Bermuda
 
+  - **PIC_Output**\
+Files for the raw output of the respirometry rates from the LoLinR package for Bermuda PI curves
+
 - **Panama**
   - **Photo_Resp_Output**\
 Files for the raw output of the respirometry rates from the LoLinR package for Panama
+
+  - **PIC_Output**\
+Files for the raw output of the respirometry rates from the LoLinR package for Panama PI curves
 
 - **MSPlots**\
 Plots used in the manuscript
