@@ -11,10 +11,10 @@ This research was funded in part by the National Science Foundation (grant OCE #
 BermudaRates.csv (calculated photosynthesis and resipration rates for Bermuda)
 PanamaRates.csv (calculated photosynthesis and resipration rates for Bermuda)
 
-**Mapping**\
+- **Mapping**\
 Shapefiles for Panama and Bermuda for the map in Figure 2
 
-**TemperatureData**\
+- **TemperatureData**\
 Temperature time series data for Panama and Bermuda from long-term stations
 
 - **Bermuda**
@@ -27,7 +27,7 @@ WaterChem_TPC_Bermuda_QC.csv (raw pH, salinity, and water volume for each sample
   - **Respirometry**\
 All the raw respirometry files from the PreSens output
 
-- **PI_curve**\
+  - **PI_curve**\
 All the raw respirometry data and metadata for creating the PI curves in Bermuda
 
   - **TAData**\
@@ -41,7 +41,7 @@ SurfaceArea_QC.csv (Coral Surface area data for Panama)\
   - **Respirometry**\
 All the raw respirometry files from the PreSens output
 
-- **PI_curve**\
+  - **PI_curve**\
 All the raw respirometry data and metadata for creating the PI curves in Panama
 
 **Output**
