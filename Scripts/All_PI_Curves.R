@@ -1,8 +1,8 @@
-#Title: Photosynthesis Irradiance Curves
+#Title: Photosynthesis Irradiance Curves for Panama and Bermuda
 #Author: HM Putnam NJ Silbiger
 #Edited by: HM Putnam
 #Date Last Modified: 20181223
-#See Readme file for details
+
 
 rm(list=ls()) #clears workspace 
 
@@ -35,7 +35,7 @@ library('phytotools')
 
 
 ##### BERMUDA #####
-path.p<-"~/MyProjects/CoralThermalTolerance/Data/Respirometry/Run_PI_curve" #the location of all your respirometry files 
+path.p<-"Data/Bermuda/PI_Curve/Run_PI_curve/" #the location of all your respirometry files 
 
 #bring in the files
 file.names<-list.files(path = path.p, pattern = "csv$") #list all csv file names in the folder
@@ -43,7 +43,7 @@ Photo.R <- data.frame(matrix(NA, nrow=length(file.names)*2, ncol=4)) #generate a
 colnames(Photo.R) <- c("Fragment.ID","Intercept", "µmol.L.sec", "Temp")
 
 #Load Sample meta info Info
-Sample.Info <- read.csv(file="~/MyProjects/CoralThermalTolerance/Data/MetaData/Nubbin_Sample_Info_PI_Curve_Bermuda_QC.csv", header=T) #read sample.info data
+Sample.Info <- read.csv(file="Data/Bermuda/PI_Curve/Nubbin_Sample_Info_PI_Curve_Bermuda_QC.csv", header=T) #read sample.info data
 
 #subset the data by light step using time breaks in the data
 for(i in 1:length(file.names)) { # for every file in list start at the first and run this following function
@@ -74,7 +74,7 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
     
     #Save plot prior to and after data thinning to make sure thinning is not too extreme
     rename <- sub("_.*", "", file.names[i])
-    pdf(paste0("~/MyProjects/CoralThermalTolerance/Output/PIC_Output/Bermuda/",rename,"_",j,"thinning.pdf"))
+    pdf(paste0("Output/Bermuda/PIC_Output/",rename,"_",j,"thinning.pdf"))
     par(omi=rep(0.3, 4)) #set size of the outer margins in inches
     par(mfrow=c(1,2)) #set number of rows and columns in multi plot graphic
     plot(Value ~ sec, data=Photo.Data , xlab='Time (seconds)', ylab=substitute(' O'[2]~' (µmol/L)'),  axes=FALSE) #plot data as a function of time
@@ -108,8 +108,8 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
     dev.off()
     
     Regs  <-  rankLocReg(xall=Photo.Data$sec, yall=Photo.Data$Value, alpha=alpha, 
-                         method="meth", verbose=TRUE) 
-    pdf(paste0("~/MyProjects/CoralThermalTolerance/Output/PIC_Output/Bermuda/",rename,"_",j,"regression.pdf"))
+                         method=meth, verbose=TRUE) 
+    pdf(paste0("Output/Bermuda/PIC_Output/",rename,"_",j,"regression.pdf"))
     plot(Regs)
     dev.off()
     
@@ -122,7 +122,7 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
 
 #view rates
 Photo.R
-write.csv(Photo.R,"~/MyProjects/CoralThermalTolerance/Data/Bermuda_PI_Curve_rates.csv")
+#write.csv(Photo.R,"Data/PI_Curve/Bermuda_PI_Curve_rates.csv")
 
 #Merge rates with sample info
 Data <- merge(Photo.R, Sample.Info, by="Fragment.ID")
@@ -145,11 +145,11 @@ Data$micromol.cm2.h <- Data$micromol.cm2.s*3600
 OF1 <- subset(Data, Fragment.Number==6)
 OF2 <- subset(Data, Fragment.Number==5)
 OF <- subset(Data, Species=="OF")
-write.csv(OF,"~/MyProjects/CoralThermalTolerance/Data/Bermuda_PI_Curve_rates_OF.csv")
+write.csv(OF,"Data/Bermuda/PI_Curve/Bermuda_PI_Curve_rates_OF.csv")
 
 
 ##### PANAMA #####
-path.p<-"~/MyProjects/CoralThermalTolerance/Panama/Data/Panama experiment_1117/PI CURVE/QC" #the location of all your respirometry files 
+path.p<-"Data/Panama/PI_Curve/QC" #the location of all your respirometry files 
 
 #bring in the files
 file.names<-list.files(path = path.p, pattern = "csv$") #list all csv file names in the folder
@@ -157,7 +157,7 @@ Photo.R <- data.frame(matrix(NA, nrow=length(file.names), ncol=4)) #generate a 3
 colnames(Photo.R) <- c("Fragment.ID","Intercept", "µmol.L.sec", "Temp")
 
 #Load Sample meta info Info
-Sample.Info <- read.csv(file="~/MyProjects/CoralThermalTolerance/Data/MetaData/Nubbin_Sample_Info_PI_Curve_Panama_QC.csv", header=T) #read sample.info data
+Sample.Info <- read.csv(file="Data/Panama/PI_Curve/Nubbin_Sample_Info_PI_Curve_Panama_QC.csv", header=T) #read sample.info data
 
 #levs <- unique(Sample.Info$Fragment.ID)
 
@@ -177,7 +177,7 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
   
   #Save plot prior to and after data thinning to make sure thinning is not too extreme
   rename <- sub(".csv", "", file.names[i])
-  pdf(paste0("~/MyProjects/CoralThermalTolerance/Output/PIC_Output/Panama/",rename,"_thinning.pdf"))
+  pdf(paste0("Output/Panama/PIC_Output/",rename,"_thinning.pdf"))
   par(omi=rep(0.3, 4)) #set size of the outer margins in inches
   par(mfrow=c(1,2)) #set number of rows and columns in multi plot graphic
   plot(Value ~ sec, data=Photo.Data , xlab='Time (seconds)', ylab=substitute(' O'[2]~' (µmol/L)'),  axes=FALSE) #plot data as a function of time
@@ -212,7 +212,7 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
   
   Regs  <-  rankLocReg(xall=Photo.Data$sec, yall=Photo.Data$Value, alpha=alpha, 
                        method=meth, verbose=TRUE) 
-  pdf(paste0("~/MyProjects/CoralThermalTolerance/Output/PIC_Output/Panama/",rename,"_regression.pdf"))
+  pdf(paste0("Output/Panama/PIC_Output/",rename,"_regression.pdf"))
   plot(Regs)
   dev.off()
   
@@ -223,8 +223,8 @@ for(i in 1:length(file.names)) { # for every file in list start at the first and
 
 
 #view rates
-Photo.R
-write.csv(Photo.R,"~/MyProjects/CoralThermalTolerance/Data/Panama_PI_Curve_rates.csv")
+#View(Photo.R)
+#write.csv(Photo.R,"Data/Panama/PI_Curve/Panama_PI_Curve_rates.csv")
 
 #Merge rates with sample info
 Data <- merge(Photo.R, Sample.Info, by="Fragment.ID")
@@ -250,21 +250,22 @@ Data <- Data[with(Data, order(Fragment.Number, Light_Level)), ]
 OF1 <- subset(Data, Fragment.Number=="OF1")
 OF3 <- subset(Data, Fragment.Number=="OF3")
 OF <- subset(Data, Species=="OF")
-write.csv(OF,"~/MyProjects/CoralThermalTolerance/Data/Panama_PI_Curve_rates_OF.csv")
+write.csv(OF,"Data/Panama/PI_Curve/Panama_PI_Curve_rates_OF.csv")
 
 
 ##### PLOTTING CURVES #####
 ##### Nonlinear Least Squares regression of a non-rectangular hyperbola (Marshall & Biscoe, 1980)
 
 #Plot curves
-Ber.data <- read.table("~/MyProjects/CoralThermalTolerance/Data/Bermuda_PI_Curve_rates_OF.csv", header=TRUE, sep=",")
-Pan.data <- read.table("~/MyProjects/CoralThermalTolerance/Data/Panama_PI_Curve_rates_OF.csv", header=TRUE, sep=",")
+Ber.data <- read.table("Data/Bermuda/PI_Curve/Bermuda_PI_Curve_rates_OF.csv", header=TRUE, sep=",")
+Pan.data <- read.table("Data/Panama/PI_Curve/Panama_PI_Curve_rates_OF.csv", header=TRUE, sep=",")
 
 Ber <- aggregate(micromol.cm2.h ~ Light_Level, data = Ber.data, FUN=mean)
 Pan <- aggregate(micromol.cm2.h ~ Light_Level, data = Pan.data, FUN=mean)
 Ber.se <- aggregate(micromol.cm2.h ~ Light_Level, data = Ber.data, FUN=std.error)
 Pan.se <- aggregate(micromol.cm2.h ~ Light_Level, data = Pan.data, FUN=std.error)
-  
+
+# mean light conditions for the experiment
 Pan.light <- mean(c(606,760,600,624,741,622,580,596,560,637,522))
 Pan.light.se <- std.error(c(606,760,600,624,741,622,580,596,560,637,522))
 Ber.light <- mean(c(530,575,630,525,460,595,630,580,450))
@@ -278,7 +279,7 @@ mtext(expression("Irradiance ("*mu*"mol photons "*m^-2*s^-1*")"),side=1,line=3.3
 mtext(expression(Rate*" ("*mu*"mol "*O[2]*" "*cm^-2*h^-1*")"),side=2,line=2,cex=1) #add labels
 
 #fit a model using a Nonlinear Least Squares regression of a non-rectangular hyperbola (Marshall & Biscoe, 1980)
-curve.nlslrc = nls(Pc ~ (1/(2*theta))*(AQY*PAR+Am-sqrt((AQY*PAR+Am)^2-4*AQY*theta*Am*PAR))-Rd,start=list(Am=(max(Pc)-min(Pc)),AQY=0.05,Rd=-min(Pc),theta=0.2)) 
+curve.nlslrc = nls(Pc ~ (1/(2*theta))*(AQY*PAR+Am-sqrt((AQY*PAR+Am)^2-4*AQY*theta*Am*PAR))-Rd,start=list(Am=(max(Pc)-min(Pc)),AQY=0.15,Rd=-min(Pc),theta=0.2)) 
 my.fit <- summary(curve.nlslrc) #summary of model fit
 
 #draw the curve using the model fit
@@ -308,7 +309,7 @@ Ber.PI.Output <- rbind(Pmax.gross, Pmax.net, -Rd, AQY,Ik,Ic)
 row.names(Ber.PI.Output) <- c("Pg.max","Pn.max","Rdark","alpha", "Ik", "Ic")
 
 
-pdf("~/MyProjects/CoralThermalTolerance/Output/FigureSx_NLLSR_PICurves.pdf")
+pdf("Output/MSFigures/FigureS1.pdf")
 par(mfrow=c(2,1))
 #Plot input data and model fit
 plot(PAR,Pc,xlab="", ylab="", xlim=c(0,max(PAR)), ylim=c(-1,1.2),cex.lab=0.8,cex.axis=0.8,cex=1, main="A) Bermuda", adj = 0.05) #set plot info
