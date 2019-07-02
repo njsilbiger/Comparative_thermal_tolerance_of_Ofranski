@@ -2,6 +2,10 @@
 
 ### Authors: Nyssa J. Silbiger*, Gretchen Goodbody-Gringley, John F. Bruno, Hollie M. Putnam
 
+### Journal: Marine Biology 
+
+### Link: *in review*
+
 ### Funding:
 This research was funded in part by the National Science Foundation (grant OCE #1737071 to JFB), California State University, and the Pembroke Foundation International (to GGG and HMP).
 
