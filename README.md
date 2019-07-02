@@ -1,4 +1,4 @@
-# Comparative thermal performance of Orbicella franksi at its latitudinal range limits
+# Comparative thermal performance of *Orbicella franksi* at its latitudinal range limits
 
 ### Authors: Nyssa J. Silbiger*, Gretchen Goodbody-Gringley, John F. Bruno, Hollie M. Putnam
 
