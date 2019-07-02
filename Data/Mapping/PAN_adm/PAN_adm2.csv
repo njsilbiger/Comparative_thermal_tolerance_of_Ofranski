@@ -1,0 +1,80 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro","Distrito","District",NA,NA
+2,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola","Distrito","District",NA,NA
+3,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande","Distrito","District",NA,NA
+4,174,"PAN","Panama",2,"Chiriquí",4,"Alanje","Distrito","District",NA,NA
+5,174,"PAN","Panama",2,"Chiriquí",5,"Barú","Distrito","District",NA,NA
+6,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón","Distrito","District",NA,NA
+7,174,"PAN","Panama",2,"Chiriquí",7,"Boquete","Distrito","District",NA,NA
+8,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba","Distrito","District",NA,NA
+9,174,"PAN","Panama",2,"Chiriquí",9,"David","Distrito","District",NA,NA
+10,174,"PAN","Panama",2,"Chiriquí",10,"Dolega","Distrito","District",NA,NA
+11,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca","Distrito","District",NA,NA
+12,174,"PAN","Panama",2,"Chiriquí",12,"Remedios","Distrito","District",NA,NA
+13,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento","Distrito","District",NA,NA
+14,174,"PAN","Panama",2,"Chiriquí",14,"San Félix","Distrito","District",NA,NA
+15,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo","Distrito","District",NA,NA
+16,174,"PAN","Panama",2,"Chiriquí",16,"Tolé","Distrito","District",NA,NA
+17,174,"PAN","Panama",3,"Coclé",17,"Aguadulce","Distrito","District",NA,NA
+18,174,"PAN","Panama",3,"Coclé",18,"Antón","Distrito","District",NA,NA
+19,174,"PAN","Panama",3,"Coclé",19,"La Pintada","Distrito","District",NA,NA
+20,174,"PAN","Panama",3,"Coclé",20,"Natá","Distrito","District",NA,NA
+21,174,"PAN","Panama",3,"Coclé",21,"Olá","Distrito","District",NA,NA
+22,174,"PAN","Panama",3,"Coclé",22,"Penonomé","Distrito","District",NA,NA
+23,174,"PAN","Panama",4,"Colón",23,"Chagres","Distrito","District",NA,NA
+24,174,"PAN","Panama",4,"Colón",24,"Colón","Distrito","District",NA,NA
+25,174,"PAN","Panama",4,"Colón",25,"Donoso","Distrito","District",NA,NA
+26,174,"PAN","Panama",4,"Colón",26,"Lago Gatún","Water body","Water body",NA,NA
+27,174,"PAN","Panama",4,"Colón",27,"Portobelo","Distrito","District",NA,NA
+28,174,"PAN","Panama",4,"Colón",28,"Santa Isabel","Distrito","District",NA,NA
+29,174,"PAN","Panama",5,"Darién",29,"Chepigana","Distrito","District",NA,NA
+30,174,"PAN","Panama",5,"Darién",30,"Pinogana","Comarca Indígena","Indigenous Territory",NA,NA
+31,174,"PAN","Panama",6,"Emberá",31,"Cémaco","Distrito","District",NA,NA
+32,174,"PAN","Panama",6,"Emberá",32,"Sambú","Distrito","District",NA,NA
+33,174,"PAN","Panama",7,"Herrera",33,"Chitré","Distrito","District",NA,NA
+34,174,"PAN","Panama",7,"Herrera",34,"Las Minas","Distrito","District",NA,NA
+35,174,"PAN","Panama",7,"Herrera",35,"Los Pozos","Distrito","District",NA,NA
+36,174,"PAN","Panama",7,"Herrera",36,"Ocú","Distrito","District",NA,NA
+37,174,"PAN","Panama",7,"Herrera",37,"Parita","Distrito","District",NA,NA
+38,174,"PAN","Panama",7,"Herrera",38,"Pesé","Distrito","District",NA,NA
+39,174,"PAN","Panama",7,"Herrera",39,"Santa María","Distrito","District",NA,NA
+40,174,"PAN","Panama",8,"Kuna Yala",40,"Kuna Yala","Comarca Indígena","Indigenous Territory",NA,NA
+41,174,"PAN","Panama",9,"Los Santos",41,"Guararé","Distrito","District",NA,NA
+42,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas","Distrito","District",NA,NA
+43,174,"PAN","Panama",9,"Los Santos",43,"Los Santos","Distrito","District",NA,NA
+44,174,"PAN","Panama",9,"Los Santos",44,"Macaracas","Distrito","District",NA,NA
+45,174,"PAN","Panama",9,"Los Santos",45,"Pedasí","Distrito","District",NA,NA
+46,174,"PAN","Panama",9,"Los Santos",46,"Pocrí","Distrito","District",NA,NA
+47,174,"PAN","Panama",9,"Los Santos",47,"Tonosí","Distrito","District",NA,NA
+48,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm","Distrito","District",NA,NA
+49,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko","Distrito","District",NA,NA
+50,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú","Distrito","District",NA,NA
+51,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín","Distrito","District",NA,NA
+52,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna","Distrito","District",NA,NA
+53,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó","Distrito","District",NA,NA
+54,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima","Distrito","District",NA,NA
+55,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján","Distrito","District",NA,NA
+56,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira","Distrito","District",NA,NA
+57,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame","Distrito","District",NA,NA
+58,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera","Distrito","District",NA,NA
+59,174,"PAN","Panama",11,"Panamá Oeste",59,"Lago Gatún","Water body","Water body",NA,NA
+60,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos","Distrito","District",NA,NA
+61,174,"PAN","Panama",11,"Panamá Oeste",61,"Taboga","Distrito","District",NA,NA
+62,174,"PAN","Panama",12,"Panamá",62,"Balboa","Distrito","District",NA,NA
+63,174,"PAN","Panama",12,"Panamá",63,"Chepo","Comarca Indígena","Indigenous Territory",NA,NA
+64,174,"PAN","Panama",12,"Panamá",64,"Chimán","Distrito","District",NA,NA
+65,174,"PAN","Panama",12,"Panamá",65,"Lago Alajuela","Water body","Water body",NA,NA
+66,174,"PAN","Panama",12,"Panamá",66,"Lago Bayano","Water body","Water body",NA,NA
+67,174,"PAN","Panama",12,"Panamá",67,"Panamá","Distrito","District",NA,NA
+68,174,"PAN","Panama",12,"Panamá",68,"San Miguelito","Distrito","District",NA,NA
+69,174,"PAN","Panama",13,"Veraguas",69,"Atalaya","Distrito","District",NA,NA
+70,174,"PAN","Panama",13,"Veraguas",70,"Cañazas","Distrito","District",NA,NA
+71,174,"PAN","Panama",13,"Veraguas",71,"Calobre","Distrito","District",NA,NA
+72,174,"PAN","Panama",13,"Veraguas",72,"La Mesa","Distrito","District",NA,NA
+73,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas","Distrito","District",NA,NA
+74,174,"PAN","Panama",13,"Veraguas",74,"Montijo","Distrito","District",NA,NA
+75,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús","Distrito","District",NA,NA
+76,174,"PAN","Panama",13,"Veraguas",76,"San Francisco","Distrito","District",NA,NA
+77,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe","Distrito","District",NA,NA
+78,174,"PAN","Panama",13,"Veraguas",78,"Santiago","Distrito","District",NA,NA
+79,174,"PAN","Panama",13,"Veraguas",79,"Soná","Distrito","District",NA,NA

@@ -1,0 +1,599 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro",1,"Bastimentos","Corregimiento","Municipality",NA,NA
+2,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro",2,"Bocas del Toro","Corregimiento","Municipality",NA,NA
+3,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro",3,"Cauchero","Corregimiento","Municipality",NA,NA
+4,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro",4,"Punta Laurel","Corregimiento","Municipality",NA,NA
+5,174,"PAN","Panama",1,"Bocas del Toro",1,"Bocas del Toro",5,"Tierra Oscura","Corregimiento","Municipality",NA,NA
+6,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola",6,"Almirante","Corregimiento","Municipality",NA,NA
+7,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola",7,"Changuinola","Corregimiento","Municipality",NA,NA
+8,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola",8,"Guabito","Corregimiento","Municipality",NA,NA
+9,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola",9,"Teribe","Corregimiento","Municipality",NA,NA
+10,174,"PAN","Panama",1,"Bocas del Toro",2,"Changuinola",10,"Valle del Risco","Corregimiento","Municipality",NA,NA
+11,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande",11,"Chiriquí Grande","Corregimiento","Municipality",NA,NA
+12,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande",12,"Miramar","Corregimiento","Municipality",NA,NA
+13,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande",13,"Punta Peña","Corregimiento","Municipality",NA,NA
+14,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande",14,"Punta Robalo","Corregimiento","Municipality",NA,NA
+15,174,"PAN","Panama",1,"Bocas del Toro",3,"Chiriquí Grande",15,"Rambala","Corregimiento","Municipality",NA,NA
+16,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",16,"Alanje","Corregimiento","Municipality",NA,NA
+17,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",17,"Divalá","Corregimiento","Municipality",NA,NA
+18,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",18,"El Tejar","Corregimiento","Municipality",NA,NA
+19,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",19,"Guarumal","Corregimiento","Municipality",NA,NA
+20,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",20,"Palo Grande","Corregimiento","Municipality",NA,NA
+21,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",21,"Querévalo","Corregimiento","Municipality",NA,NA
+22,174,"PAN","Panama",2,"Chiriquí",4,"Alanje",22,"Santo Tomás","Corregimiento","Municipality",NA,NA
+23,174,"PAN","Panama",2,"Chiriquí",5,"Barú",23,"Baco","Corregimiento","Municipality",NA,NA
+24,174,"PAN","Panama",2,"Chiriquí",5,"Barú",24,"Limones","Corregimiento","Municipality",NA,NA
+25,174,"PAN","Panama",2,"Chiriquí",5,"Barú",25,"Progreso","Corregimiento","Municipality",NA,NA
+26,174,"PAN","Panama",2,"Chiriquí",5,"Barú",26,"Puerto Armuelles","Corregimiento","Municipality",NA,NA
+27,174,"PAN","Panama",2,"Chiriquí",5,"Barú",27,"Rodolfo Aguilar Delgado","Corregimiento","Municipality",NA,NA
+28,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",28,"Bágala","Corregimiento","Municipality",NA,NA
+29,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",29,"Boquerón","Corregimiento","Municipality",NA,NA
+30,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",30,"Cordillera","Corregimiento","Municipality",NA,NA
+31,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",31,"Guabal","Corregimiento","Municipality",NA,NA
+32,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",32,"Guayabal","Corregimiento","Municipality",NA,NA
+33,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",33,"Paraíso","Corregimiento","Municipality",NA,NA
+34,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",34,"Pedregal","Corregimiento","Municipality",NA,NA
+35,174,"PAN","Panama",2,"Chiriquí",6,"Boquerón",35,"Tijeras","Corregimiento","Municipality",NA,NA
+36,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",36,"Alto Boquete","Corregimiento","Municipality",NA,NA
+37,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",37,"Bajo Boquete","Corregimiento","Municipality",NA,NA
+38,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",38,"Caldera","Corregimiento","Municipality",NA,NA
+39,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",39,"Jaramillo","Corregimiento","Municipality",NA,NA
+40,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",40,"Los Naranjos","Corregimiento","Municipality",NA,NA
+41,174,"PAN","Panama",2,"Chiriquí",7,"Boquete",41,"Palmira","Corregimiento","Municipality",NA,NA
+42,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",42,"Aserrío de Gariché","Corregimiento","Municipality",NA,NA
+43,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",43,"Bugaba","Corregimiento","Municipality",NA,NA
+44,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",44,"Cerro Punta","Corregimiento","Municipality",NA,NA
+45,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",45,"El Bongo","Corregimiento","Municipality",NA,NA
+46,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",46,"Gómez","Corregimiento","Municipality",NA,NA
+47,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",47,"La Concepción","Corregimiento","Municipality",NA,NA
+48,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",48,"La Estrella","Corregimiento","Municipality",NA,NA
+49,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",49,"San Andrés","Corregimiento","Municipality",NA,NA
+50,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",50,"Santa Marta","Corregimiento","Municipality",NA,NA
+51,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",51,"Santa Rosa","Corregimiento","Municipality",NA,NA
+52,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",52,"Santo Domingo","Corregimiento","Municipality",NA,NA
+53,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",53,"Sortová","Corregimiento","Municipality",NA,NA
+54,174,"PAN","Panama",2,"Chiriquí",8,"Bugaba",54,"Volcán","Corregimiento","Municipality",NA,NA
+55,174,"PAN","Panama",2,"Chiriquí",9,"David",55,"Bijagual","Corregimiento","Municipality",NA,NA
+56,174,"PAN","Panama",2,"Chiriquí",9,"David",56,"Chiriquí","Corregimiento","Municipality",NA,NA
+57,174,"PAN","Panama",2,"Chiriquí",9,"David",57,"Cochea","Corregimiento","Municipality",NA,NA
+58,174,"PAN","Panama",2,"Chiriquí",9,"David",58,"David","Corregimiento","Municipality",NA,NA
+59,174,"PAN","Panama",2,"Chiriquí",9,"David",59,"Guacá","Corregimiento","Municipality",NA,NA
+60,174,"PAN","Panama",2,"Chiriquí",9,"David",60,"Las Lomas","Corregimiento","Municipality",NA,NA
+61,174,"PAN","Panama",2,"Chiriquí",9,"David",61,"Pedregal","Corregimiento","Municipality",NA,NA
+62,174,"PAN","Panama",2,"Chiriquí",9,"David",62,"San Carlos","Corregimiento","Municipality",NA,NA
+63,174,"PAN","Panama",2,"Chiriquí",9,"David",63,"San Pablo Nuevo","Corregimiento","Municipality",NA,NA
+64,174,"PAN","Panama",2,"Chiriquí",9,"David",64,"San Pablo Viejo","Corregimiento","Municipality",NA,NA
+65,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",65,"Dolega","Corregimiento","Municipality",NA,NA
+66,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",66,"Dos Ríos","Corregimiento","Municipality",NA,NA
+67,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",67,"Los Anastacios","Corregimiento","Municipality",NA,NA
+68,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",68,"Potrerillos Abajo","Corregimiento","Municipality",NA,NA
+69,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",69,"Potrerillos","Corregimiento","Municipality",NA,NA
+70,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",70,"Rovira","Corregimiento","Municipality",NA,NA
+71,174,"PAN","Panama",2,"Chiriquí",10,"Dolega",71,"Tinajas","Corregimiento","Municipality",NA,NA
+72,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca",72,"Gualaca","Corregimiento","Municipality",NA,NA
+73,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca",73,"Hornito","Corregimiento","Municipality",NA,NA
+74,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca",74,"Los Angeles","Corregimiento","Municipality",NA,NA
+75,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca",75,"Paja de Sombrero","Corregimiento","Municipality",NA,NA
+76,174,"PAN","Panama",2,"Chiriquí",11,"Gualaca",76,"Rincón","Corregimiento","Municipality",NA,NA
+77,174,"PAN","Panama",2,"Chiriquí",12,"Remedios",77,"El Nancito","Corregimiento","Municipality",NA,NA
+78,174,"PAN","Panama",2,"Chiriquí",12,"Remedios",78,"El Porvenir","Corregimiento","Municipality",NA,NA
+79,174,"PAN","Panama",2,"Chiriquí",12,"Remedios",79,"El Puerto","Corregimiento","Municipality",NA,NA
+80,174,"PAN","Panama",2,"Chiriquí",12,"Remedios",80,"Remedios","Corregimiento","Municipality",NA,NA
+81,174,"PAN","Panama",2,"Chiriquí",12,"Remedios",81,"Santa Lucía","Corregimiento","Municipality",NA,NA
+82,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",82,"Breñón","Corregimiento","Municipality",NA,NA
+83,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",83,"Cañas Gordas","Corregimiento","Municipality",NA,NA
+84,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",84,"Monte Lirio","Corregimiento","Municipality",NA,NA
+85,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",85,"Plaza Caisán","Corregimiento","Municipality",NA,NA
+86,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",86,"Río Sereno","Corregimiento","Municipality",NA,NA
+87,174,"PAN","Panama",2,"Chiriquí",13,"Renacimiento",87,"Santa Cruz","Corregimiento","Municipality",NA,NA
+88,174,"PAN","Panama",2,"Chiriquí",14,"San Félix",88,"Juay","Corregimiento","Municipality",NA,NA
+89,174,"PAN","Panama",2,"Chiriquí",14,"San Félix",89,"La Lajas","Corregimiento","Municipality",NA,NA
+90,174,"PAN","Panama",2,"Chiriquí",14,"San Félix",90,"Lajas Adentro","Corregimiento","Municipality",NA,NA
+91,174,"PAN","Panama",2,"Chiriquí",14,"San Félix",91,"San Félix","Corregimiento","Municipality",NA,NA
+92,174,"PAN","Panama",2,"Chiriquí",14,"San Félix",92,"Santa Cruz","Corregimiento","Municipality",NA,NA
+93,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo",93,"Boca Chica","Corregimiento","Municipality",NA,NA
+94,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo",94,"Boca del Monte","Corregimiento","Municipality",NA,NA
+95,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo",95,"Horconcitos","Corregimiento","Municipality",NA,NA
+96,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo",96,"San Juan","Corregimiento","Municipality",NA,NA
+97,174,"PAN","Panama",2,"Chiriquí",15,"San Lorenzo",97,"San Lorenzo","Corregimiento","Municipality",NA,NA
+98,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",98,"Bella Vista","Corregimiento","Municipality",NA,NA
+99,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",99,"Cerro Viejo","Corregimiento","Municipality",NA,NA
+100,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",100,"El Cristo","Corregimiento","Municipality",NA,NA
+101,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",101,"Justo Fidel Palacios","Corregimiento","Municipality",NA,NA
+102,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",102,"Lajas de Tolé","Corregimiento","Municipality",NA,NA
+103,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",103,"Potrero de Caña","Corregimiento","Municipality",NA,NA
+104,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",104,"Quebrada de Piedra","Corregimiento","Municipality",NA,NA
+105,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",105,"Tolé","Corregimiento","Municipality",NA,NA
+106,174,"PAN","Panama",2,"Chiriquí",16,"Tolé",106,"Veladero","Corregimiento","Municipality",NA,NA
+107,174,"PAN","Panama",3,"Coclé",17,"Aguadulce",107,"Aguadulce","Corregimiento","Municipality",NA,NA
+108,174,"PAN","Panama",3,"Coclé",17,"Aguadulce",108,"Barrios Unidos","Corregimiento","Municipality",NA,NA
+109,174,"PAN","Panama",3,"Coclé",17,"Aguadulce",109,"El Cristo","Corregimiento","Municipality",NA,NA
+110,174,"PAN","Panama",3,"Coclé",17,"Aguadulce",110,"El Roble","Corregimiento","Municipality",NA,NA
+111,174,"PAN","Panama",3,"Coclé",17,"Aguadulce",111,"Pocrí","Corregimiento","Municipality",NA,NA
+112,174,"PAN","Panama",3,"Coclé",18,"Antón",112,"Antón","Corregimiento","Municipality",NA,NA
+113,174,"PAN","Panama",3,"Coclé",18,"Antón",113,"Caballero","Corregimiento","Municipality",NA,NA
+114,174,"PAN","Panama",3,"Coclé",18,"Antón",114,"Cabuya","Corregimiento","Municipality",NA,NA
+115,174,"PAN","Panama",3,"Coclé",18,"Antón",115,"El Chirú","Corregimiento","Municipality",NA,NA
+116,174,"PAN","Panama",3,"Coclé",18,"Antón",116,"El Retiro","Corregimiento","Municipality",NA,NA
+117,174,"PAN","Panama",3,"Coclé",18,"Antón",117,"El Valle","Corregimiento","Municipality",NA,NA
+118,174,"PAN","Panama",3,"Coclé",18,"Antón",118,"Juan Diaz","Corregimiento","Municipality",NA,NA
+119,174,"PAN","Panama",3,"Coclé",18,"Antón",119,"Río Hato","Corregimiento","Municipality",NA,NA
+120,174,"PAN","Panama",3,"Coclé",18,"Antón",120,"San Juan de Dios","Corregimiento","Municipality",NA,NA
+121,174,"PAN","Panama",3,"Coclé",18,"Antón",121,"Santa Rita","Corregimiento","Municipality",NA,NA
+122,174,"PAN","Panama",3,"Coclé",19,"La Pintada",122,"El Harino","Corregimiento","Municipality",NA,NA
+123,174,"PAN","Panama",3,"Coclé",19,"La Pintada",123,"El Potrero","Corregimiento","Municipality",NA,NA
+124,174,"PAN","Panama",3,"Coclé",19,"La Pintada",124,"La Pintada","Corregimiento","Municipality",NA,NA
+125,174,"PAN","Panama",3,"Coclé",19,"La Pintada",125,"Las Lomas","Corregimiento","Municipality",NA,NA
+126,174,"PAN","Panama",3,"Coclé",19,"La Pintada",126,"Llano Grande","Corregimiento","Municipality",NA,NA
+127,174,"PAN","Panama",3,"Coclé",19,"La Pintada",127,"Piedras Gordas","Corregimiento","Municipality",NA,NA
+128,174,"PAN","Panama",3,"Coclé",20,"Natá",128,"Capellania","Corregimiento","Municipality",NA,NA
+129,174,"PAN","Panama",3,"Coclé",20,"Natá",129,"El Caño","Corregimiento","Municipality",NA,NA
+130,174,"PAN","Panama",3,"Coclé",20,"Natá",130,"Guzmán","Corregimiento","Municipality",NA,NA
+131,174,"PAN","Panama",3,"Coclé",20,"Natá",131,"Las Huacas","Corregimiento","Municipality",NA,NA
+132,174,"PAN","Panama",3,"Coclé",20,"Natá",132,"Natá","Corregimiento","Municipality",NA,NA
+133,174,"PAN","Panama",3,"Coclé",20,"Natá",133,"Toza","Corregimiento","Municipality",NA,NA
+134,174,"PAN","Panama",3,"Coclé",21,"Olá",134,"El Copé","Corregimiento","Municipality",NA,NA
+135,174,"PAN","Panama",3,"Coclé",21,"Olá",135,"El Palmar","Corregimiento","Municipality",NA,NA
+136,174,"PAN","Panama",3,"Coclé",21,"Olá",136,"El Picacho","Corregimiento","Municipality",NA,NA
+137,174,"PAN","Panama",3,"Coclé",21,"Olá",137,"La Pava","Corregimiento","Municipality",NA,NA
+138,174,"PAN","Panama",3,"Coclé",21,"Olá",138,"Olá","Corregimiento","Municipality",NA,NA
+139,174,"PAN","Panama",3,"Coclé",22,"Penonomé",139,"Cañaveral","Corregimiento","Municipality",NA,NA
+140,174,"PAN","Panama",3,"Coclé",22,"Penonomé",140,"Chiguirí Arriba","Corregimiento","Municipality",NA,NA
+141,174,"PAN","Panama",3,"Coclé",22,"Penonomé",141,"Coclé","Corregimiento","Municipality",NA,NA
+142,174,"PAN","Panama",3,"Coclé",22,"Penonomé",142,"El Coco","Corregimiento","Municipality",NA,NA
+143,174,"PAN","Panama",3,"Coclé",22,"Penonomé",143,"Pajonal","Corregimiento","Municipality",NA,NA
+144,174,"PAN","Panama",3,"Coclé",22,"Penonomé",144,"Penonomé","Corregimiento","Municipality",NA,NA
+145,174,"PAN","Panama",3,"Coclé",22,"Penonomé",145,"Río Grande","Corregimiento","Municipality",NA,NA
+146,174,"PAN","Panama",3,"Coclé",22,"Penonomé",146,"Río Indio","Corregimiento","Municipality",NA,NA
+147,174,"PAN","Panama",3,"Coclé",22,"Penonomé",147,"Toabré","Corregimiento","Municipality",NA,NA
+148,174,"PAN","Panama",3,"Coclé",22,"Penonomé",148,"Tulu","Corregimiento","Municipality",NA,NA
+149,174,"PAN","Panama",4,"Colón",23,"Chagres",149,"Achiote","Corregimiento","Municipality",NA,NA
+150,174,"PAN","Panama",4,"Colón",23,"Chagres",150,"El Guabo","Corregimiento","Municipality",NA,NA
+151,174,"PAN","Panama",4,"Colón",23,"Chagres",151,"La Encantada","Corregimiento","Municipality",NA,NA
+152,174,"PAN","Panama",4,"Colón",23,"Chagres",152,"Nuevo Chagres","Corregimiento","Municipality",NA,NA
+153,174,"PAN","Panama",4,"Colón",23,"Chagres",153,"Palmas Bellas","Corregimiento","Municipality",NA,NA
+154,174,"PAN","Panama",4,"Colón",23,"Chagres",154,"Piña","Corregimiento","Municipality",NA,NA
+155,174,"PAN","Panama",4,"Colón",23,"Chagres",155,"Salud","Corregimiento","Municipality",NA,NA
+156,174,"PAN","Panama",4,"Colón",24,"Colón",156,"Barrio Norte","Corregimiento","Municipality",NA,NA
+157,174,"PAN","Panama",4,"Colón",24,"Colón",157,"Barrio Sur","Corregimiento","Municipality",NA,NA
+158,174,"PAN","Panama",4,"Colón",24,"Colón",158,"Buena Vista","Corregimiento","Municipality",NA,NA
+159,174,"PAN","Panama",4,"Colón",24,"Colón",159,"Cativá","Corregimiento","Municipality",NA,NA
+160,174,"PAN","Panama",4,"Colón",24,"Colón",160,"Ciricito","Corregimiento","Municipality",NA,NA
+161,174,"PAN","Panama",4,"Colón",24,"Colón",161,"Cristóbal","Corregimiento","Municipality",NA,NA
+162,174,"PAN","Panama",4,"Colón",24,"Colón",162,"Escobal","Corregimiento","Municipality",NA,NA
+163,174,"PAN","Panama",4,"Colón",24,"Colón",163,"Limón","Corregimiento","Municipality",NA,NA
+164,174,"PAN","Panama",4,"Colón",24,"Colón",164,"Nueva Providencia","Corregimiento","Municipality",NA,NA
+165,174,"PAN","Panama",4,"Colón",24,"Colón",165,"Puerto Pilón","Corregimiento","Municipality",NA,NA
+166,174,"PAN","Panama",4,"Colón",24,"Colón",166,"Sabanitas","Corregimiento","Municipality",NA,NA
+167,174,"PAN","Panama",4,"Colón",24,"Colón",167,"Salamanca","Corregimiento","Municipality",NA,NA
+168,174,"PAN","Panama",4,"Colón",24,"Colón",168,"San Juan","Corregimiento","Municipality",NA,NA
+169,174,"PAN","Panama",4,"Colón",24,"Colón",169,"Santa Rosa","Corregimiento","Municipality",NA,NA
+170,174,"PAN","Panama",4,"Colón",25,"Donoso",170,"Coclé del Norte","Corregimiento","Municipality",NA,NA
+171,174,"PAN","Panama",4,"Colón",25,"Donoso",171,"El Guásimo","Corregimiento","Municipality",NA,NA
+172,174,"PAN","Panama",4,"Colón",25,"Donoso",172,"Gobea","Corregimiento","Municipality",NA,NA
+173,174,"PAN","Panama",4,"Colón",25,"Donoso",173,"Miguel de la Borda","Corregimiento","Municipality",NA,NA
+174,174,"PAN","Panama",4,"Colón",25,"Donoso",174,"Río Indio","Corregimiento","Municipality",NA,NA
+175,174,"PAN","Panama",4,"Colón",25,"Donoso",175,"San José del General","Corregimiento","Municipality",NA,NA
+176,174,"PAN","Panama",4,"Colón",26,"Lago Gatún",176,"Waterbody","Water body","Water body",NA,NA
+177,174,"PAN","Panama",4,"Colón",27,"Portobelo",177,"Cacique","Corregimiento","Municipality",NA,NA
+178,174,"PAN","Panama",4,"Colón",27,"Portobelo",178,"Garrote","Corregimiento","Municipality",NA,NA
+179,174,"PAN","Panama",4,"Colón",27,"Portobelo",179,"Isla Grande","Corregimiento","Municipality",NA,NA
+180,174,"PAN","Panama",4,"Colón",27,"Portobelo",180,"María Chiquita","Corregimiento","Municipality",NA,NA
+181,174,"PAN","Panama",4,"Colón",27,"Portobelo",181,"Portobelo","Corregimiento","Municipality",NA,NA
+182,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",182,"Cuango","Corregimiento","Municipality",NA,NA
+183,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",183,"Miramar","Corregimiento","Municipality",NA,NA
+184,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",184,"Nombre de Dios","Corregimiento","Municipality",NA,NA
+185,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",185,"Palenque","Corregimiento","Municipality",NA,NA
+186,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",186,"Palmira","Corregimiento","Municipality",NA,NA
+187,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",187,"Playa Chiquita","Corregimiento","Municipality",NA,NA
+188,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",188,"Santa Isabel","Corregimiento","Municipality",NA,NA
+189,174,"PAN","Panama",4,"Colón",28,"Santa Isabel",189,"Viento Frío","Corregimiento","Municipality",NA,NA
+190,174,"PAN","Panama",5,"Darién",29,"Chepigana",190,"Agua Fría","Corregimiento","Municipality",NA,NA
+191,174,"PAN","Panama",5,"Darién",29,"Chepigana",191,"Camogantí","Corregimiento","Municipality",NA,NA
+192,174,"PAN","Panama",5,"Darién",29,"Chepigana",192,"Chepigana","Corregimiento","Municipality",NA,NA
+193,174,"PAN","Panama",5,"Darién",29,"Chepigana",193,"Cucunatí","Corregimiento","Municipality",NA,NA
+194,174,"PAN","Panama",5,"Darién",29,"Chepigana",194,"Garachiné","Corregimiento","Municipality",NA,NA
+195,174,"PAN","Panama",5,"Darién",29,"Chepigana",195,"Jaqué","Corregimiento","Municipality",NA,NA
+196,174,"PAN","Panama",5,"Darién",29,"Chepigana",196,"La Palma","Corregimiento","Municipality",NA,NA
+197,174,"PAN","Panama",5,"Darién",29,"Chepigana",197,"Puerto Piña","Corregimiento","Municipality",NA,NA
+198,174,"PAN","Panama",5,"Darién",29,"Chepigana",198,"Río Congo Arriba","Corregimiento","Municipality",NA,NA
+199,174,"PAN","Panama",5,"Darién",29,"Chepigana",199,"Río Congo","Corregimiento","Municipality",NA,NA
+200,174,"PAN","Panama",5,"Darién",29,"Chepigana",200,"Río Iglesias","Corregimiento","Municipality",NA,NA
+201,174,"PAN","Panama",5,"Darién",29,"Chepigana",201,"Sambú","Corregimiento","Municipality",NA,NA
+202,174,"PAN","Panama",5,"Darién",29,"Chepigana",202,"Santa Fé","Corregimiento","Municipality",NA,NA
+203,174,"PAN","Panama",5,"Darién",29,"Chepigana",203,"Setegantí","Corregimiento","Municipality",NA,NA
+204,174,"PAN","Panama",5,"Darién",29,"Chepigana",204,"Taimatí","Corregimiento","Municipality",NA,NA
+205,174,"PAN","Panama",5,"Darién",29,"Chepigana",205,"Tucutí","Corregimiento","Municipality",NA,NA
+206,174,"PAN","Panama",5,"Darién",30,"Pinogana",206,"Boca de Cupé","Corregimiento","Municipality",NA,NA
+207,174,"PAN","Panama",5,"Darién",30,"Pinogana",207,"El Real de Santa María","Corregimiento","Municipality",NA,NA
+208,174,"PAN","Panama",5,"Darién",30,"Pinogana",208,"Kuna de Wargandí","Comarca Indígena","Indigenous Territory",NA,NA
+209,174,"PAN","Panama",5,"Darién",30,"Pinogana",209,"Metetí","Corregimiento","Municipality",NA,NA
+210,174,"PAN","Panama",5,"Darién",30,"Pinogana",210,"Púcuro","Corregimiento","Municipality",NA,NA
+211,174,"PAN","Panama",5,"Darién",30,"Pinogana",211,"Paya","Corregimiento","Municipality",NA,NA
+212,174,"PAN","Panama",5,"Darién",30,"Pinogana",212,"Pinogana","Corregimiento","Municipality",NA,NA
+213,174,"PAN","Panama",5,"Darién",30,"Pinogana",213,"Yape","Corregimiento","Municipality",NA,NA
+214,174,"PAN","Panama",5,"Darién",30,"Pinogana",214,"Yaviza","Corregimiento","Municipality",NA,NA
+215,174,"PAN","Panama",6,"Emberá",31,"Cémaco",215,"Cirilo Guainora","Corregimiento","Municipality",NA,NA
+216,174,"PAN","Panama",6,"Emberá",31,"Cémaco",216,"Lajas Blancas","Corregimiento","Municipality",NA,NA
+217,174,"PAN","Panama",6,"Emberá",31,"Cémaco",217,"Manuel Ortega","Corregimiento","Municipality",NA,NA
+218,174,"PAN","Panama",6,"Emberá",32,"Sambú",218,"Jingurudó","Corregimiento","Municipality",NA,NA
+219,174,"PAN","Panama",6,"Emberá",32,"Sambú",219,"Río Sábalo","Corregimiento","Municipality",NA,NA
+220,174,"PAN","Panama",7,"Herrera",33,"Chitré",220,"Chitré","Corregimiento","Municipality",NA,NA
+221,174,"PAN","Panama",7,"Herrera",33,"Chitré",221,"La Arena","Corregimiento","Municipality",NA,NA
+222,174,"PAN","Panama",7,"Herrera",33,"Chitré",222,"Llano Bonito","Corregimiento","Municipality",NA,NA
+223,174,"PAN","Panama",7,"Herrera",33,"Chitré",223,"Monagrillo","Corregimiento","Municipality",NA,NA
+224,174,"PAN","Panama",7,"Herrera",33,"Chitré",224,"San Juan Bautista","Corregimiento","Municipality",NA,NA
+225,174,"PAN","Panama",7,"Herrera",34,"Las Minas",225,"Chepo","Corregimiento","Municipality",NA,NA
+226,174,"PAN","Panama",7,"Herrera",34,"Las Minas",226,"Chumical","Corregimiento","Municipality",NA,NA
+227,174,"PAN","Panama",7,"Herrera",34,"Las Minas",227,"El Toro","Corregimiento","Municipality",NA,NA
+228,174,"PAN","Panama",7,"Herrera",34,"Las Minas",228,"Las Minas","Corregimiento","Municipality",NA,NA
+229,174,"PAN","Panama",7,"Herrera",34,"Las Minas",229,"Leones","Corregimiento","Municipality",NA,NA
+230,174,"PAN","Panama",7,"Herrera",34,"Las Minas",230,"Quebrada del Rosario","Corregimiento","Municipality",NA,NA
+231,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",231,"Capurí","Corregimiento","Municipality",NA,NA
+232,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",232,"El Calabacito","Corregimiento","Municipality",NA,NA
+233,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",233,"El Cedro","Corregimiento","Municipality",NA,NA
+234,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",234,"La Arena","Corregimiento","Municipality",NA,NA
+235,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",235,"La Pitalosa","Corregimiento","Municipality",NA,NA
+236,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",236,"Los Cerritos","Corregimiento","Municipality",NA,NA
+237,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",237,"Los Cerros de Paja","Corregimiento","Municipality",NA,NA
+238,174,"PAN","Panama",7,"Herrera",35,"Los Pozos",238,"Los Pozos","Corregimiento","Municipality",NA,NA
+239,174,"PAN","Panama",7,"Herrera",36,"Ocú",239,"Cerro Largo","Corregimiento","Municipality",NA,NA
+240,174,"PAN","Panama",7,"Herrera",36,"Ocú",240,"El Tijera","Corregimiento","Municipality",NA,NA
+241,174,"PAN","Panama",7,"Herrera",36,"Ocú",241,"Llano Grande","Corregimiento","Municipality",NA,NA
+242,174,"PAN","Panama",7,"Herrera",36,"Ocú",242,"Los Llanos","Corregimiento","Municipality",NA,NA
+243,174,"PAN","Panama",7,"Herrera",36,"Ocú",243,"Ocú","Corregimiento","Municipality",NA,NA
+244,174,"PAN","Panama",7,"Herrera",36,"Ocú",244,"Peñas Chatas","Corregimiento","Municipality",NA,NA
+245,174,"PAN","Panama",7,"Herrera",37,"Parita",245,"Cabuya","Corregimiento","Municipality",NA,NA
+246,174,"PAN","Panama",7,"Herrera",37,"Parita",246,"Llano de la Cruz","Corregimiento","Municipality",NA,NA
+247,174,"PAN","Panama",7,"Herrera",37,"Parita",247,"Los Castillos","Corregimiento","Municipality",NA,NA
+248,174,"PAN","Panama",7,"Herrera",37,"Parita",248,"París","Corregimiento","Municipality",NA,NA
+249,174,"PAN","Panama",7,"Herrera",37,"Parita",249,"Parita","Corregimiento","Municipality",NA,NA
+250,174,"PAN","Panama",7,"Herrera",37,"Parita",250,"Portobelillo","Corregimiento","Municipality",NA,NA
+251,174,"PAN","Panama",7,"Herrera",37,"Parita",251,"Potuga","Corregimiento","Municipality",NA,NA
+252,174,"PAN","Panama",7,"Herrera",38,"Pesé",252,"El Barrero","Corregimiento","Municipality",NA,NA
+253,174,"PAN","Panama",7,"Herrera",38,"Pesé",253,"El Ciruelo","Corregimiento","Municipality",NA,NA
+254,174,"PAN","Panama",7,"Herrera",38,"Pesé",254,"El Pájaro","Corregimiento","Municipality",NA,NA
+255,174,"PAN","Panama",7,"Herrera",38,"Pesé",255,"El Pedregoso","Corregimiento","Municipality",NA,NA
+256,174,"PAN","Panama",7,"Herrera",38,"Pesé",256,"Las Cabras","Corregimiento","Municipality",NA,NA
+257,174,"PAN","Panama",7,"Herrera",38,"Pesé",257,"Pesé","Corregimiento","Municipality",NA,NA
+258,174,"PAN","Panama",7,"Herrera",38,"Pesé",258,"Rincón Hondo","Corregimiento","Municipality",NA,NA
+259,174,"PAN","Panama",7,"Herrera",38,"Pesé",259,"Sabanagrande","Corregimiento","Municipality",NA,NA
+260,174,"PAN","Panama",7,"Herrera",39,"Santa María",260,"Chupampa","Corregimiento","Municipality",NA,NA
+261,174,"PAN","Panama",7,"Herrera",39,"Santa María",261,"El Limón","Corregimiento","Municipality",NA,NA
+262,174,"PAN","Panama",7,"Herrera",39,"Santa María",262,"El Rincón","Corregimiento","Municipality",NA,NA
+263,174,"PAN","Panama",7,"Herrera",39,"Santa María",263,"Los Canelos","Corregimiento","Municipality",NA,NA
+264,174,"PAN","Panama",7,"Herrera",39,"Santa María",264,"Santa María","Corregimiento","Municipality",NA,NA
+265,174,"PAN","Panama",8,"Kuna Yala",40,"Kuna Yala",265,"Ailigandí","Corregimiento","Municipality",NA,NA
+266,174,"PAN","Panama",8,"Kuna Yala",40,"Kuna Yala",266,"Narganá","Corregimiento","Municipality",NA,NA
+267,174,"PAN","Panama",8,"Kuna Yala",40,"Kuna Yala",267,"Puerto Obaldía","Corregimiento","Municipality",NA,NA
+268,174,"PAN","Panama",8,"Kuna Yala",40,"Kuna Yala",268,"Tubualá","Corregimiento","Municipality",NA,NA
+269,174,"PAN","Panama",9,"Los Santos",41,"Guararé",269,"El Espinal","Corregimiento","Municipality",NA,NA
+270,174,"PAN","Panama",9,"Los Santos",41,"Guararé",270,"El Hato","Corregimiento","Municipality",NA,NA
+271,174,"PAN","Panama",9,"Los Santos",41,"Guararé",271,"El Macano","Corregimiento","Municipality",NA,NA
+272,174,"PAN","Panama",9,"Los Santos",41,"Guararé",272,"Guararé Arriba","Corregimiento","Municipality",NA,NA
+273,174,"PAN","Panama",9,"Los Santos",41,"Guararé",273,"Guararé","Corregimiento","Municipality",NA,NA
+274,174,"PAN","Panama",9,"Los Santos",41,"Guararé",274,"La Enea","Corregimiento","Municipality",NA,NA
+275,174,"PAN","Panama",9,"Los Santos",41,"Guararé",275,"La Pasera","Corregimiento","Municipality",NA,NA
+276,174,"PAN","Panama",9,"Los Santos",41,"Guararé",276,"Las Trancas","Corregimiento","Municipality",NA,NA
+277,174,"PAN","Panama",9,"Los Santos",41,"Guararé",277,"Llano Abajo","Corregimiento","Municipality",NA,NA
+278,174,"PAN","Panama",9,"Los Santos",41,"Guararé",278,"Perales","Corregimiento","Municipality",NA,NA
+279,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",279,"Bajo Corral","Corregimiento","Municipality",NA,NA
+280,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",280,"Bayano","Corregimiento","Municipality",NA,NA
+281,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",281,"El Carate","Corregimiento","Municipality",NA,NA
+282,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",282,"El Cocal","Corregimiento","Municipality",NA,NA
+283,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",283,"El Manantial","Corregimiento","Municipality",NA,NA
+284,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",284,"El Muñoz","Corregimiento","Municipality",NA,NA
+285,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",285,"El Pedregoso","Corregimiento","Municipality",NA,NA
+286,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",286,"La Laja","Corregimiento","Municipality",NA,NA
+287,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",287,"La Miel","Corregimiento","Municipality",NA,NA
+288,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",288,"La Palma","Corregimiento","Municipality",NA,NA
+289,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",289,"La Tiza","Corregimiento","Municipality",NA,NA
+290,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",290,"Las Palmitas","Corregimiento","Municipality",NA,NA
+291,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",291,"Las Tablas Abajo","Corregimiento","Municipality",NA,NA
+292,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",292,"Las Tablas","Corregimiento","Municipality",NA,NA
+293,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",293,"Nuario","Corregimiento","Municipality",NA,NA
+294,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",294,"Palmira","Corregimiento","Municipality",NA,NA
+295,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",295,"Peña Blanca","Corregimiento","Municipality",NA,NA
+296,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",296,"Río Hondo","Corregimiento","Municipality",NA,NA
+297,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",297,"San José","Corregimiento","Municipality",NA,NA
+298,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",298,"San Miguel","Corregimiento","Municipality",NA,NA
+299,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",299,"Santo Domingo","Corregimiento","Municipality",NA,NA
+300,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",300,"Sesteadero","Corregimiento","Municipality",NA,NA
+301,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",301,"Valle Rico","Corregimiento","Municipality",NA,NA
+302,174,"PAN","Panama",9,"Los Santos",42,"Las Tablas",302,"Vallerriquito","Corregimiento","Municipality",NA,NA
+303,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",303,"Agua Buena","Corregimiento","Municipality",NA,NA
+304,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",304,"El Guásimo","Corregimiento","Municipality",NA,NA
+305,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",305,"La Colorada","Corregimiento","Municipality",NA,NA
+306,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",306,"La Espigadilla","Corregimiento","Municipality",NA,NA
+307,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",307,"La Villa de Los Santos","Corregimiento","Municipality",NA,NA
+308,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",308,"Las Cruces","Corregimiento","Municipality",NA,NA
+309,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",309,"Las Guabas","Corregimiento","Municipality",NA,NA
+310,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",310,"Llano Largo","Corregimiento","Municipality",NA,NA
+311,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",311,"Los Angeles","Corregimiento","Municipality",NA,NA
+312,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",312,"Los Olivos","Corregimiento","Municipality",NA,NA
+313,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",313,"Sabanagrande","Corregimiento","Municipality",NA,NA
+314,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",314,"Santa Ana","Corregimiento","Municipality",NA,NA
+315,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",315,"Tres Quebradas","Corregimiento","Municipality",NA,NA
+316,174,"PAN","Panama",9,"Los Santos",43,"Los Santos",316,"Villa Lourdes","Corregimiento","Municipality",NA,NA
+317,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",317,"Bahía Honda","Corregimiento","Municipality",NA,NA
+318,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",318,"Bajos de Güera","Corregimiento","Municipality",NA,NA
+319,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",319,"Chupá","Corregimiento","Municipality",NA,NA
+320,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",320,"Corozal","Corregimiento","Municipality",NA,NA
+321,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",321,"El Cedro","Corregimiento","Municipality",NA,NA
+322,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",322,"Espino Amarillo","Corregimiento","Municipality",NA,NA
+323,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",323,"La Mesa","Corregimiento","Municipality",NA,NA
+324,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",324,"Las Palmas","Corregimiento","Municipality",NA,NA
+325,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",325,"Llano de Piedra","Corregimiento","Municipality",NA,NA
+326,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",326,"Macaracas","Corregimiento","Municipality",NA,NA
+327,174,"PAN","Panama",9,"Los Santos",44,"Macaracas",327,"Mogollón","Corregimiento","Municipality",NA,NA
+328,174,"PAN","Panama",9,"Los Santos",45,"Pedasí",328,"Los Asientos","Corregimiento","Municipality",NA,NA
+329,174,"PAN","Panama",9,"Los Santos",45,"Pedasí",329,"Mariabé","Corregimiento","Municipality",NA,NA
+330,174,"PAN","Panama",9,"Los Santos",45,"Pedasí",330,"Oria Arriba","Corregimiento","Municipality",NA,NA
+331,174,"PAN","Panama",9,"Los Santos",45,"Pedasí",331,"Pedasí","Corregimiento","Municipality",NA,NA
+332,174,"PAN","Panama",9,"Los Santos",45,"Pedasí",332,"Purio","Corregimiento","Municipality",NA,NA
+333,174,"PAN","Panama",9,"Los Santos",46,"Pocrí",333,"El Cañafístulo","Corregimiento","Municipality",NA,NA
+334,174,"PAN","Panama",9,"Los Santos",46,"Pocrí",334,"Lajamina","Corregimiento","Municipality",NA,NA
+335,174,"PAN","Panama",9,"Los Santos",46,"Pocrí",335,"Paraíso","Corregimiento","Municipality",NA,NA
+336,174,"PAN","Panama",9,"Los Santos",46,"Pocrí",336,"Paritilla","Corregimiento","Municipality",NA,NA
+337,174,"PAN","Panama",9,"Los Santos",46,"Pocrí",337,"Pocrí","Corregimiento","Municipality",NA,NA
+338,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",338,"Altos de Güera","Corregimiento","Municipality",NA,NA
+339,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",339,"Cañas","Corregimiento","Municipality",NA,NA
+340,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",340,"Cambutal","Corregimiento","Municipality",NA,NA
+341,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",341,"El Bebedero","Corregimiento","Municipality",NA,NA
+342,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",342,"El Cacao","Corregimiento","Municipality",NA,NA
+343,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",343,"El Cortezo","Corregimiento","Municipality",NA,NA
+344,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",344,"Flores","Corregimiento","Municipality",NA,NA
+345,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",345,"Guánico","Corregimiento","Municipality",NA,NA
+346,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",346,"La Tronosa","Corregimiento","Municipality",NA,NA
+347,174,"PAN","Panama",9,"Los Santos",47,"Tonosí",347,"Tonosí","Corregimiento","Municipality",NA,NA
+348,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",348,"Agua De Salud","Corregimiento","Municipality",NA,NA
+349,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",349,"Alto de Jesús","Corregimiento","Municipality",NA,NA
+350,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",350,"Buenos Aires","Corregimiento","Municipality",NA,NA
+351,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",351,"Cerro Pelado","Corregimiento","Municipality",NA,NA
+352,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",352,"El Bale","Corregimiento","Municipality",NA,NA
+353,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",353,"El Paredón","Corregimiento","Municipality",NA,NA
+354,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",354,"El Piro","Corregimiento","Municipality",NA,NA
+355,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",355,"Güibale","Corregimiento","Municipality",NA,NA
+356,174,"PAN","Panama",10,"Ngöbe Buglé",48,"Ñürüm",356,"Guayabito","Corregimiento","Municipality",NA,NA
+357,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",357,"Boca De Balsa","Corregimiento","Municipality",NA,NA
+358,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",358,"Camarón Arriba","Corregimiento","Municipality",NA,NA
+359,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",359,"Cerro Banco","Corregimiento","Municipality",NA,NA
+360,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",360,"Cerro De Patena","Corregimiento","Municipality",NA,NA
+361,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",361,"Emplanada de Chorcha","Corregimiento","Municipality",NA,NA
+362,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",362,"Nämnoni","Corregimiento","Municipality",NA,NA
+363,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",363,"Niba","Corregimiento","Municipality",NA,NA
+364,174,"PAN","Panama",10,"Ngöbe Buglé",49,"Besiko",364,"Soloy","Corregimiento","Municipality",NA,NA
+365,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",365,"Büri","Corregimiento","Municipality",NA,NA
+366,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",366,"Bisira","Corregimiento","Municipality",NA,NA
+367,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",367,"Guariviara","Corregimiento","Municipality",NA,NA
+368,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",368,"Guoroní","Corregimiento","Municipality",NA,NA
+369,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",369,"Kankintú","Corregimiento","Municipality",NA,NA
+370,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",370,"Mününi","Corregimiento","Municipality",NA,NA
+371,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",371,"Piedra Roja","Corregimiento","Municipality",NA,NA
+372,174,"PAN","Panama",10,"Ngöbe Buglé",50,"Kankintú",372,"Tuwai","Corregimiento","Municipality",NA,NA
+373,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",373,"Bahía Azul","Corregimiento","Municipality",NA,NA
+374,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",374,"Calavébora o Santa Catalina","Corregimiento","Municipality",NA,NA
+375,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",375,"Kusapín","Corregimiento","Municipality",NA,NA
+376,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",376,"Loma Yuca","Corregimiento","Municipality",NA,NA
+377,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",377,"Río Chiriquí","Corregimiento","Municipality",NA,NA
+378,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",378,"Tobobe","Corregimiento","Municipality",NA,NA
+379,174,"PAN","Panama",10,"Ngöbe Buglé",51,"Kusapín",379,"Valle Bonito","Corregimiento","Municipality",NA,NA
+380,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",380,"Alto Caballero","Corregimiento","Municipality",NA,NA
+381,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",381,"Bakama","Corregimiento","Municipality",NA,NA
+382,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",382,"Cerro Caña","Corregimiento","Municipality",NA,NA
+383,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",383,"Cerro Puerco","Corregimiento","Municipality",NA,NA
+384,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",384,"Chichica","Corregimiento","Municipality",NA,NA
+385,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",385,"Krüa","Corregimiento","Municipality",NA,NA
+386,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",386,"Maraca","Corregimiento","Municipality",NA,NA
+387,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",387,"Nibra","Corregimiento","Municipality",NA,NA
+388,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",388,"Peña Blanca","Corregimiento","Municipality",NA,NA
+389,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",389,"Roka","Corregimiento","Municipality",NA,NA
+390,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",390,"Sitio Prado","Corregimiento","Municipality",NA,NA
+391,174,"PAN","Panama",10,"Ngöbe Buglé",52,"Müna",391,"Umani","Corregimiento","Municipality",NA,NA
+392,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",392,"Cascabel","Corregimiento","Municipality",NA,NA
+393,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",393,"Hato Corotú","Corregimiento","Municipality",NA,NA
+394,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",394,"Hato Culantro","Corregimiento","Municipality",NA,NA
+395,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",395,"Hato Jobo","Corregimiento","Municipality",NA,NA
+396,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",396,"Hato Julí","Corregimiento","Municipality",NA,NA
+397,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",397,"Hato Pilón","Corregimiento","Municipality",NA,NA
+398,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",398,"Quebrada de Loro","Corregimiento","Municipality",NA,NA
+399,174,"PAN","Panama",10,"Ngöbe Buglé",53,"Mironó",399,"Salto Dupí","Corregimiento","Municipality",NA,NA
+400,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima",400,"Cerro Iglesias","Corregimiento","Municipality",NA,NA
+401,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima",401,"Hato Chamí","Corregimiento","Municipality",NA,NA
+402,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima",402,"Jädeberi","Corregimiento","Municipality",NA,NA
+403,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima",403,"Lajero","Corregimiento","Municipality",NA,NA
+404,174,"PAN","Panama",10,"Ngöbe Buglé",54,"Nole Duima",404,"Susama","Corregimiento","Municipality",NA,NA
+405,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",405,"Arraiján","Corregimiento","Municipality",NA,NA
+406,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",406,"Juan Demóstenes Arosemena","Corregimiento","Municipality",NA,NA
+407,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",407,"Nuevo Emperador","Corregimiento","Municipality",NA,NA
+408,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",408,"Santa Clara","Corregimiento","Municipality",NA,NA
+409,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",409,"Veracruz","Corregimiento","Municipality",NA,NA
+410,174,"PAN","Panama",11,"Panamá Oeste",55,"Arraiján",410,"Vista Alegre","Corregimiento","Municipality",NA,NA
+411,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",411,"Caimito","Corregimiento","Municipality",NA,NA
+412,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",412,"Campana","Corregimiento","Municipality",NA,NA
+413,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",413,"Capira","Corregimiento","Municipality",NA,NA
+414,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",414,"Cermeño","Corregimiento","Municipality",NA,NA
+415,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",415,"Cirí de los Sotos","Corregimiento","Municipality",NA,NA
+416,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",416,"Cirí Grande","Corregimiento","Municipality",NA,NA
+417,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",417,"El Cacao","Corregimiento","Municipality",NA,NA
+418,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",418,"La Trinidad","Corregimiento","Municipality",NA,NA
+419,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",419,"Lídice","Corregimiento","Municipality",NA,NA
+420,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",420,"Las Ollas Arriba","Corregimiento","Municipality",NA,NA
+421,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",421,"Santa Rosa","Corregimiento","Municipality",NA,NA
+422,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",422,"Villa Carmen","Corregimiento","Municipality",NA,NA
+423,174,"PAN","Panama",11,"Panamá Oeste",56,"Capira",423,"Villa Rosario","Corregimiento","Municipality",NA,NA
+424,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",424,"Bejuco","Corregimiento","Municipality",NA,NA
+425,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",425,"Buenos Aires","Corregimiento","Municipality",NA,NA
+426,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",426,"Cabuya","Corregimiento","Municipality",NA,NA
+427,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",427,"Chame","Corregimiento","Municipality",NA,NA
+428,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",428,"Chicá","Corregimiento","Municipality",NA,NA
+429,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",429,"El Libano","Corregimiento","Municipality",NA,NA
+430,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",430,"Las Lajas","Corregimiento","Municipality",NA,NA
+431,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",431,"Nueva Gorgona","Corregimiento","Municipality",NA,NA
+432,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",432,"Punta Chame","Corregimiento","Municipality",NA,NA
+433,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",433,"Sajalices","Corregimiento","Municipality",NA,NA
+434,174,"PAN","Panama",11,"Panamá Oeste",57,"Chame",434,"Sorá","Corregimiento","Municipality",NA,NA
+435,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",435,"Amador","Corregimiento","Municipality",NA,NA
+436,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",436,"Arosemena","Corregimiento","Municipality",NA,NA
+437,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",437,"Barrio Balboa","Corregimiento","Municipality",NA,NA
+438,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",438,"Barrio Colón","Corregimiento","Municipality",NA,NA
+439,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",439,"El Arado","Corregimiento","Municipality",NA,NA
+440,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",440,"El Coco","Corregimiento","Municipality",NA,NA
+441,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",441,"Feuillet","Corregimiento","Municipality",NA,NA
+442,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",442,"Guadalupe","Corregimiento","Municipality",NA,NA
+443,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",443,"Herrera","Corregimiento","Municipality",NA,NA
+444,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",444,"Hurtado","Corregimiento","Municipality",NA,NA
+445,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",445,"Iturralde","Corregimiento","Municipality",NA,NA
+446,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",446,"La Represa","Corregimiento","Municipality",NA,NA
+447,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",447,"Los Díaz","Corregimiento","Municipality",NA,NA
+448,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",448,"Mendoza","Corregimiento","Municipality",NA,NA
+449,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",449,"Obaldía","Corregimiento","Municipality",NA,NA
+450,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",450,"Playa Leona","Corregimiento","Municipality",NA,NA
+451,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",451,"Puerto Caimito","Corregimiento","Municipality",NA,NA
+452,174,"PAN","Panama",11,"Panamá Oeste",58,"La Chorrera",452,"Santa Rita","Corregimiento","Municipality",NA,NA
+453,174,"PAN","Panama",11,"Panamá Oeste",59,"Lago Gatún",453,"Waterbody","Water body","Water body",NA,NA
+454,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",454,"El Espino","Corregimiento","Municipality",NA,NA
+455,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",455,"El Higo","Corregimiento","Municipality",NA,NA
+456,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",456,"Guayabito","Corregimiento","Municipality",NA,NA
+457,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",457,"La Ermita","Corregimiento","Municipality",NA,NA
+458,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",458,"La Laguna","Corregimiento","Municipality",NA,NA
+459,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",459,"Las Uvas","Corregimiento","Municipality",NA,NA
+460,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",460,"Los Llanitos","Corregimiento","Municipality",NA,NA
+461,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",461,"San Carlos","Corregimiento","Municipality",NA,NA
+462,174,"PAN","Panama",11,"Panamá Oeste",60,"San Carlos",462,"San José","Corregimiento","Municipality",NA,NA
+463,174,"PAN","Panama",11,"Panamá Oeste",61,"Taboga",463,"Otoque Occidente","Corregimiento","Municipality",NA,NA
+464,174,"PAN","Panama",11,"Panamá Oeste",61,"Taboga",464,"Otoque Oriente","Corregimiento","Municipality",NA,NA
+465,174,"PAN","Panama",11,"Panamá Oeste",61,"Taboga",465,"Taboga","Corregimiento","Municipality",NA,NA
+466,174,"PAN","Panama",12,"Panamá",62,"Balboa",466,"La Ensenada","Corregimiento","Municipality",NA,NA
+467,174,"PAN","Panama",12,"Panamá",62,"Balboa",467,"La Esmeralda","Corregimiento","Municipality",NA,NA
+468,174,"PAN","Panama",12,"Panamá",62,"Balboa",468,"La Guinea","Corregimiento","Municipality",NA,NA
+469,174,"PAN","Panama",12,"Panamá",62,"Balboa",469,"Pedro González","Corregimiento","Municipality",NA,NA
+470,174,"PAN","Panama",12,"Panamá",62,"Balboa",470,"Saboga","Corregimiento","Municipality",NA,NA
+471,174,"PAN","Panama",12,"Panamá",62,"Balboa",471,"San Miguel","Corregimiento","Municipality",NA,NA
+472,174,"PAN","Panama",12,"Panamá",63,"Chepo",472,"Cañita","Corregimiento","Municipality",NA,NA
+473,174,"PAN","Panama",12,"Panamá",63,"Chepo",473,"Chepillo","Corregimiento","Municipality",NA,NA
+474,174,"PAN","Panama",12,"Panamá",63,"Chepo",474,"Chepo","Corregimiento","Municipality",NA,NA
+475,174,"PAN","Panama",12,"Panamá",63,"Chepo",475,"El Llano","Corregimiento","Municipality",NA,NA
+476,174,"PAN","Panama",12,"Panamá",63,"Chepo",476,"Kuna de Madungandí","Comarca Indígena","Indigenous Territory",NA,NA
+477,174,"PAN","Panama",12,"Panamá",63,"Chepo",477,"Las Margaritas","Corregimiento","Municipality",NA,NA
+478,174,"PAN","Panama",12,"Panamá",63,"Chepo",478,"Santa Cruz de Chinina","Corregimiento","Municipality",NA,NA
+479,174,"PAN","Panama",12,"Panamá",63,"Chepo",479,"Tortí","Corregimiento","Municipality",NA,NA
+480,174,"PAN","Panama",12,"Panamá",64,"Chimán",480,"Brujas","Corregimiento","Municipality",NA,NA
+481,174,"PAN","Panama",12,"Panamá",64,"Chimán",481,"Chimán","Corregimiento","Municipality",NA,NA
+482,174,"PAN","Panama",12,"Panamá",64,"Chimán",482,"Gonzalo Vasquez","Corregimiento","Municipality",NA,NA
+483,174,"PAN","Panama",12,"Panamá",64,"Chimán",483,"Pasiga","Corregimiento","Municipality",NA,NA
+484,174,"PAN","Panama",12,"Panamá",64,"Chimán",484,"Unión Santeña","Corregimiento","Municipality",NA,NA
+485,174,"PAN","Panama",12,"Panamá",65,"Lago Alajuela",485,"Waterbody","Water body","Water body",NA,NA
+486,174,"PAN","Panama",12,"Panamá",66,"Lago Bayano",486,"Waterbody","Water body","Water body",NA,NA
+487,174,"PAN","Panama",12,"Panamá",67,"Panamá",487,"Ancón","Corregimiento","Municipality",NA,NA
+488,174,"PAN","Panama",12,"Panamá",67,"Panamá",488,"Bella Vista","Corregimiento","Municipality",NA,NA
+489,174,"PAN","Panama",12,"Panamá",67,"Panamá",489,"Betania","Corregimiento","Municipality",NA,NA
+490,174,"PAN","Panama",12,"Panamá",67,"Panamá",490,"Chilibre","Corregimiento","Municipality",NA,NA
+491,174,"PAN","Panama",12,"Panamá",67,"Panamá",491,"Curundú","Corregimiento","Municipality",NA,NA
+492,174,"PAN","Panama",12,"Panamá",67,"Panamá",492,"El Chorrillo","Corregimiento","Municipality",NA,NA
+493,174,"PAN","Panama",12,"Panamá",67,"Panamá",493,"Juan Díaz","Corregimiento","Municipality",NA,NA
+494,174,"PAN","Panama",12,"Panamá",67,"Panamá",494,"La Exposición o Calidonia","Corregimiento","Municipality",NA,NA
+495,174,"PAN","Panama",12,"Panamá",67,"Panamá",495,"Las Cumbres","Corregimiento","Municipality",NA,NA
+496,174,"PAN","Panama",12,"Panamá",67,"Panamá",496,"Pacora","Corregimiento","Municipality",NA,NA
+497,174,"PAN","Panama",12,"Panamá",67,"Panamá",497,"Parque Lefevre","Corregimiento","Municipality",NA,NA
+498,174,"PAN","Panama",12,"Panamá",67,"Panamá",498,"Pedregal","Corregimiento","Municipality",NA,NA
+499,174,"PAN","Panama",12,"Panamá",67,"Panamá",499,"Pueblo Nuevo","Corregimiento","Municipality",NA,NA
+500,174,"PAN","Panama",12,"Panamá",67,"Panamá",500,"Río Abajo","Corregimiento","Municipality",NA,NA
+501,174,"PAN","Panama",12,"Panamá",67,"Panamá",501,"San Felipe","Corregimiento","Municipality",NA,NA
+502,174,"PAN","Panama",12,"Panamá",67,"Panamá",502,"San Francisco","Corregimiento","Municipality",NA,NA
+503,174,"PAN","Panama",12,"Panamá",67,"Panamá",503,"San Martín","Corregimiento","Municipality",NA,NA
+504,174,"PAN","Panama",12,"Panamá",67,"Panamá",504,"Santa Ana","Corregimiento","Municipality",NA,NA
+505,174,"PAN","Panama",12,"Panamá",67,"Panamá",505,"Tocumen","Corregimiento","Municipality",NA,NA
+506,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",506,"Amelia Denis de Icaza","Corregimiento","Municipality",NA,NA
+507,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",507,"Arnulfo Arias","Corregimiento","Municipality",NA,NA
+508,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",508,"Belisario Frías","Corregimiento","Municipality",NA,NA
+509,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",509,"Belisario Porras","Corregimiento","Municipality",NA,NA
+510,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",510,"José Domingo Espinar","Corregimiento","Municipality",NA,NA
+511,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",511,"Mateo Iturralde","Corregimiento","Municipality",NA,NA
+512,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",512,"Omar Torrijos","Corregimiento","Municipality",NA,NA
+513,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",513,"Rufina Alfaro","Corregimiento","Municipality",NA,NA
+514,174,"PAN","Panama",12,"Panamá",68,"San Miguelito",514,"Victoriano Lorenzo","Corregimiento","Municipality",NA,NA
+515,174,"PAN","Panama",13,"Veraguas",69,"Atalaya",515,"Atalaya","Corregimiento","Municipality",NA,NA
+516,174,"PAN","Panama",13,"Veraguas",69,"Atalaya",516,"El Barrito","Corregimiento","Municipality",NA,NA
+517,174,"PAN","Panama",13,"Veraguas",69,"Atalaya",517,"La Carrillo","Corregimiento","Municipality",NA,NA
+518,174,"PAN","Panama",13,"Veraguas",69,"Atalaya",518,"La Montañuela","Corregimiento","Municipality",NA,NA
+519,174,"PAN","Panama",13,"Veraguas",69,"Atalaya",519,"San Antonio","Corregimiento","Municipality",NA,NA
+520,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",520,"Cañazas","Corregimiento","Municipality",NA,NA
+521,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",521,"Cerro de Plata","Corregimiento","Municipality",NA,NA
+522,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",522,"El Picador","Corregimiento","Municipality",NA,NA
+523,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",523,"Los Valles","Corregimiento","Municipality",NA,NA
+524,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",524,"San José","Corregimiento","Municipality",NA,NA
+525,174,"PAN","Panama",13,"Veraguas",70,"Cañazas",525,"San Marcelo","Corregimiento","Municipality",NA,NA
+526,174,"PAN","Panama",13,"Veraguas",71,"Calobre",526,"Barnizal","Corregimiento","Municipality",NA,NA
+527,174,"PAN","Panama",13,"Veraguas",71,"Calobre",527,"Calobre","Corregimiento","Municipality",NA,NA
+528,174,"PAN","Panama",13,"Veraguas",71,"Calobre",528,"Chitra","Corregimiento","Municipality",NA,NA
+529,174,"PAN","Panama",13,"Veraguas",71,"Calobre",529,"El Cocla","Corregimiento","Municipality",NA,NA
+530,174,"PAN","Panama",13,"Veraguas",71,"Calobre",530,"El Potrero","Corregimiento","Municipality",NA,NA
+531,174,"PAN","Panama",13,"Veraguas",71,"Calobre",531,"La Laguna","Corregimiento","Municipality",NA,NA
+532,174,"PAN","Panama",13,"Veraguas",71,"Calobre",532,"La Raya de Calobre","Corregimiento","Municipality",NA,NA
+533,174,"PAN","Panama",13,"Veraguas",71,"Calobre",533,"La Tetilla","Corregimiento","Municipality",NA,NA
+534,174,"PAN","Panama",13,"Veraguas",71,"Calobre",534,"La Yeguada","Corregimiento","Municipality",NA,NA
+535,174,"PAN","Panama",13,"Veraguas",71,"Calobre",535,"Las Guías","Corregimiento","Municipality",NA,NA
+536,174,"PAN","Panama",13,"Veraguas",71,"Calobre",536,"Monjarás","Corregimiento","Municipality",NA,NA
+537,174,"PAN","Panama",13,"Veraguas",71,"Calobre",537,"San José","Corregimiento","Municipality",NA,NA
+538,174,"PAN","Panama",13,"Veraguas",72,"La Mesa",538,"Bisvalles","Corregimiento","Municipality",NA,NA
+539,174,"PAN","Panama",13,"Veraguas",72,"La Mesa",539,"Boró","Corregimiento","Municipality",NA,NA
+540,174,"PAN","Panama",13,"Veraguas",72,"La Mesa",540,"La Mesa","Corregimiento","Municipality",NA,NA
+541,174,"PAN","Panama",13,"Veraguas",72,"La Mesa",541,"Llano Grande","Corregimiento","Municipality",NA,NA
+542,174,"PAN","Panama",13,"Veraguas",72,"La Mesa",542,"San Bartolo","Corregimiento","Municipality",NA,NA
+543,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",543,"Cerro de Casa","Corregimiento","Municipality",NA,NA
+544,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",544,"Corozal","Corregimiento","Municipality",NA,NA
+545,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",545,"El María","Corregimiento","Municipality",NA,NA
+546,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",546,"El Prado","Corregimiento","Municipality",NA,NA
+547,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",547,"El Rincón","Corregimiento","Municipality",NA,NA
+548,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",548,"Las Palmas","Corregimiento","Municipality",NA,NA
+549,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",549,"Lolá","Corregimiento","Municipality",NA,NA
+550,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",550,"Pixvae","Corregimiento","Municipality",NA,NA
+551,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",551,"Puerto Vidal","Corregimiento","Municipality",NA,NA
+552,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",552,"San Martín de Porres","Corregimiento","Municipality",NA,NA
+553,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",553,"Viguí","Corregimiento","Municipality",NA,NA
+554,174,"PAN","Panama",13,"Veraguas",73,"Las Palmas",554,"Zapotillo","Corregimiento","Municipality",NA,NA
+555,174,"PAN","Panama",13,"Veraguas",74,"Montijo",555,"Arenas","Corregimiento","Municipality",NA,NA
+556,174,"PAN","Panama",13,"Veraguas",74,"Montijo",556,"Gobernadora","Corregimiento","Municipality",NA,NA
+557,174,"PAN","Panama",13,"Veraguas",74,"Montijo",557,"La Garceana","Corregimiento","Municipality",NA,NA
+558,174,"PAN","Panama",13,"Veraguas",74,"Montijo",558,"Leones","Corregimiento","Municipality",NA,NA
+559,174,"PAN","Panama",13,"Veraguas",74,"Montijo",559,"Llano de Catival","Corregimiento","Municipality",NA,NA
+560,174,"PAN","Panama",13,"Veraguas",74,"Montijo",560,"Montijo","Corregimiento","Municipality",NA,NA
+561,174,"PAN","Panama",13,"Veraguas",74,"Montijo",561,"Pilón","Corregimiento","Municipality",NA,NA
+562,174,"PAN","Panama",13,"Veraguas",74,"Montijo",562,"Quebro","Corregimiento","Municipality",NA,NA
+563,174,"PAN","Panama",13,"Veraguas",74,"Montijo",563,"Tebario","Corregimiento","Municipality",NA,NA
+564,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús",564,"Catorce de Noviembre","Corregimiento","Municipality",NA,NA
+565,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús",565,"Las Huacas","Corregimiento","Municipality",NA,NA
+566,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús",566,"Los Castillos","Corregimiento","Municipality",NA,NA
+567,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús",567,"Río de Jesús","Corregimiento","Municipality",NA,NA
+568,174,"PAN","Panama",13,"Veraguas",75,"Río de Jesús",568,"Utira","Corregimiento","Municipality",NA,NA
+569,174,"PAN","Panama",13,"Veraguas",76,"San Francisco",569,"Corral Falso","Corregimiento","Municipality",NA,NA
+570,174,"PAN","Panama",13,"Veraguas",76,"San Francisco",570,"Los Hatillos","Corregimiento","Municipality",NA,NA
+571,174,"PAN","Panama",13,"Veraguas",76,"San Francisco",571,"Remance","Corregimiento","Municipality",NA,NA
+572,174,"PAN","Panama",13,"Veraguas",76,"San Francisco",572,"San Francisco","Corregimiento","Municipality",NA,NA
+573,174,"PAN","Panama",13,"Veraguas",76,"San Francisco",573,"San Juan","Corregimiento","Municipality",NA,NA
+574,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",574,"Calovébora","Corregimiento","Municipality",NA,NA
+575,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",575,"El Alto","Corregimiento","Municipality",NA,NA
+576,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",576,"El Cuay","Corregimiento","Municipality",NA,NA
+577,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",577,"El Pantano","Corregimiento","Municipality",NA,NA
+578,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",578,"Gatú o Gatucito","Corregimiento","Municipality",NA,NA
+579,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",579,"Río Luis","Corregimiento","Municipality",NA,NA
+580,174,"PAN","Panama",13,"Veraguas",77,"Santa Fe",580,"Santa Fe","Corregimiento","Municipality",NA,NA
+581,174,"PAN","Panama",13,"Veraguas",78,"Santiago",581,"Canto del Llano","Corregimiento","Municipality",NA,NA
+582,174,"PAN","Panama",13,"Veraguas",78,"Santiago",582,"La Colorada","Corregimiento","Municipality",NA,NA
+583,174,"PAN","Panama",13,"Veraguas",78,"Santiago",583,"La Peña","Corregimiento","Municipality",NA,NA
+584,174,"PAN","Panama",13,"Veraguas",78,"Santiago",584,"La Raya de Santa María","Corregimiento","Municipality",NA,NA
+585,174,"PAN","Panama",13,"Veraguas",78,"Santiago",585,"Los Algarrobos","Corregimiento","Municipality",NA,NA
+586,174,"PAN","Panama",13,"Veraguas",78,"Santiago",586,"Ponuga","Corregimiento","Municipality",NA,NA
+587,174,"PAN","Panama",13,"Veraguas",78,"Santiago",587,"San Pedro del Espino","Corregimiento","Municipality",NA,NA
+588,174,"PAN","Panama",13,"Veraguas",78,"Santiago",588,"Santiago","Corregimiento","Municipality",NA,NA
+589,174,"PAN","Panama",13,"Veraguas",79,"Soná",589,"Bahía Honda","Corregimiento","Municipality",NA,NA
+590,174,"PAN","Panama",13,"Veraguas",79,"Soná",590,"Calidonia","Corregimiento","Municipality",NA,NA
+591,174,"PAN","Panama",13,"Veraguas",79,"Soná",591,"Cativé","Corregimiento","Municipality",NA,NA
+592,174,"PAN","Panama",13,"Veraguas",79,"Soná",592,"El Marañón","Corregimiento","Municipality",NA,NA
+593,174,"PAN","Panama",13,"Veraguas",79,"Soná",593,"Guarumal","Corregimiento","Municipality",NA,NA
+594,174,"PAN","Panama",13,"Veraguas",79,"Soná",594,"La Soledad","Corregimiento","Municipality",NA,NA
+595,174,"PAN","Panama",13,"Veraguas",79,"Soná",595,"Quebrada de Oro","Corregimiento","Municipality",NA,NA
+596,174,"PAN","Panama",13,"Veraguas",79,"Soná",596,"Río Grande","Corregimiento","Municipality",NA,NA
+597,174,"PAN","Panama",13,"Veraguas",79,"Soná",597,"Rodeo Viejo","Corregimiento","Municipality",NA,NA
+598,174,"PAN","Panama",13,"Veraguas",79,"Soná",598,"Soná","Corregimiento","Municipality",NA,NA
