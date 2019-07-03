@@ -176,7 +176,7 @@ stopCluster(cl)
 
 
 # plot the trace plots
-png('../Output/traceAllRates%03d.png', 1500,1500, res = 150)
+png('Output/traceplots/traceAllRates%03d.png', 1500,1500, res = 150)
 plot(zm.p)
 dev.off()
 
