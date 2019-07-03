@@ -367,7 +367,7 @@ colnames(p.values.r)<-params
 
 ########### Plotting Results #######################
 ### respiration curves
-png('Output/MSFigures/FigureS2.pdf',5,8)
+pdf('Output/MSFigures/FigureS2.pdf',6,6)
 
 par(mfrow=c(1,1))
 par(mar=c(5.1,5.1,4.1,2.1)) # add more space on the left
@@ -490,7 +490,7 @@ dev.off()
 ### make tables of the results
 # make a data table of all the checks
 diagnostic<-cbind(as.data.frame(Rhat.p[[1]]),as.data.frame(Neff.p),as.data.frame(Rhat.r[[1]]), as.data.frame(Neff.r) )
-write.csv(diagnostic, file = "../Output/diagnostic.csv")
+write.csv(diagnostic, file = "Output/diagnostic.csv")
 
 #confidence intervals of the params
 write.csv(stat.p, file = "Output/PhotoResults.csv")
@@ -499,7 +499,7 @@ write.csv(stat.r, file = "Output/RespResults.csv")
 # p-values
 ps<-rbind(p.values,p.values.r)
 rownames(ps)<-c('Gross Photosynthesis', 'Respiration')
-write.csv(ps,'Output/PValues.csv')
+write.csv(ps,'Output/PValues_locations.csv')
 
 
 ### make some comparison plots using tidybayes ####
@@ -746,6 +746,6 @@ ggsave(filename = 'Output/MSFigures/FigureS3.png', plot = allR, device = 'png', 
 ggsave(filename = 'Output/MSFigures/FigureS3.pdf', plot = allR, device = 'pdf', width = 6, height = 7, dpi = 300)
 
 # export the results
-write.csv(Photoquants, 'Output/PhotoQuantiles.csv')
-write.csv(Respquants, 'Output/RespQuantiles.csv')
+write.csv(Photoquants, 'Output/PhotoQuantiles_locations.csv')
+write.csv(Respquants, 'Output/RespQuantiles_locations.csv')
 
