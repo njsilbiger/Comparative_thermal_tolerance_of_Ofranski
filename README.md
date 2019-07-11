@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333002.svg)](https://doi.org/10.5281/zenodo.3333002)
 # Comparative thermal performance of *Orbicella franksi* at its latitudinal range limits
 
 ### Authors: Nyssa J. Silbiger*, Gretchen Goodbody-Gringley, John F. Bruno, Hollie M. Putnam
