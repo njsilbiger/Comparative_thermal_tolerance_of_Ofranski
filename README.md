@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333002.svg)](https://doi.org/10.5281/zenodo.3333002)
 # Comparative thermal performance of *Orbicella franksi* at its latitudinal range limits
 
 ### Authors: Nyssa J. Silbiger*, Gretchen Goodbody-Gringley, John F. Bruno, Hollie M. Putnam
@@ -49,6 +50,7 @@ All the raw respirometry files from the PreSens output
 All the raw respirometry data and metadata for creating the PI curves in Panama
 
 **Output**
+Diagnostics from all of the models including Bayesian P-values and quantiles.
 - **Bermuda**
   - **Photo_Resp_Output**\
 Files for the raw output of the respirometry rates from the LoLinR package for Bermuda
@@ -68,3 +70,13 @@ Plots used in the manuscript
 
 - **traceplots**\
 Trace plots and autocorrelation plots to check Bayesian output
+
+**Scripts**
+- All_PI_Curves.R (calculate photosynthesis-irradiance curves for both Panama and Bermuda)
+- BayesInParallel.R (R script for running models for photosynthesis and respiration between the two locations using parallel computing)
+- JAGSnestedLocation (JAGS code for comparing rates between locations)
+- JAGSnetstedRates (JAGS code for comparing rates between different organismal functions)
+- modelbyrates.R (R script for running models comparing among the three organismal functions)
+- Segmented_Respirometry_Bermuda.R (R script to take raw respirometry data and calculate rates for Bermuda)
+- SegmentedResp_Panama.R (R script to take raw respirometry data and calculate rates for Panama)
+- TemperatureScript.R (R script to make the temperature plots and the maps)
