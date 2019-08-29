@@ -199,7 +199,7 @@ Rhat.p<-gelman.diag(zm.p, multivariate = FALSE)
 Neff.p<-effectiveSize(zm.p)
 
 ###### plot the photosynthesis curves #####
-pdf('Output/MSFigures/Figure3.pdf', 5,5)
+pdf('Output/MSFigures/Figure3.pdf', 5,6)
 
 # Photosynthesis
 BBData<-AllData
