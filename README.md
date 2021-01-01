@@ -1,11 +1,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333002.svg)](https://doi.org/10.5281/zenodo.3333002)
-# Comparative thermal performance of *Orbicella franksi* at its latitudinal range limits
+# Comparative thermal performance of the reef-building coral *Orbicella franksi* at its latitudinal range limits
 
 ### Authors: Nyssa J. Silbiger*, Gretchen Goodbody-Gringley, John F. Bruno, Hollie M. Putnam
 
 ### Journal: Marine Biology 
 
-### Link: *in review*
+### Link: (https://link.springer.com/article/10.1007/s00227-019-3573-6)[https://link.springer.com/article/10.1007/s00227-019-3573-6]
 
 ### Funding:
 This research was funded in part by the National Science Foundation (grant OCE #1737071 to JFB), California State University, and the Pembroke Foundation International (to GGG and HMP).
