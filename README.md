@@ -5,7 +5,7 @@
 
 ### Journal: Marine Biology 
 
-### Link: (https://link.springer.com/article/10.1007/s00227-019-3573-6)[https://link.springer.com/article/10.1007/s00227-019-3573-6]
+### Link: [Article Here](https://link.springer.com/article/10.1007/s00227-019-3573-6)
 
 ### Funding:
 This research was funded in part by the National Science Foundation (grant OCE #1737071 to JFB), California State University, and the Pembroke Foundation International (to GGG and HMP).
